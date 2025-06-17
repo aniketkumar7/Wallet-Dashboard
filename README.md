@@ -84,10 +84,5 @@ MIT
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
-  <p>
-    <a href="https://twitter.com/yourtwitter">Twitter</a> •
-    <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> •
-    <a href="https://yourwebsite.com">Website</a>
-  </p>
+  <p>Made with ❤️ by <a href="https://github.com/yourusername">Aniket Kumar</a></p>
 </div>
